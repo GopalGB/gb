@@ -33,13 +33,12 @@
     projectId: "lfos-in7",
     storageBucket: "lfos-in7.appspot.com",
     messagingSenderId: "641592169437",
-    appId: "1:641592169437:web:359ac161b2d8ccdd991c34",
-    measurementId: "G-SW8E4WKELN"
+    appId: "1:641592169437:web:7a13ad1ce26d31d0991c34",
+    measurementId: "G-2QWZZGHNL9"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
-
 </script>
 <script src="NumberAuthentication.js" type="text/javascript"></script>
 </body>
